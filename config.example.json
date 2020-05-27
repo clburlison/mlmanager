@@ -11,6 +11,8 @@
         "enabled": true,
         "threshold": 900
     },
+    "debug": false,
+    "heartbeatThreshold": 300,
     "saveScreenshots": false,
     "ipa": "/Users/Shared/pogo.ipa",
     "devices": []
