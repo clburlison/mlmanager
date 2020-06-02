@@ -12,7 +12,7 @@ A python manager for basic controls of an iOS application.
     ```
 1. Install command line tools and dependencies
     ```shell
-    brew install --HEAD usbmushellxd
+    brew install --HEAD usbmuxd
     brew install --HEAD libplist
     brew install --HEAD libimobiledevice
     brew install ideviceinstaller
